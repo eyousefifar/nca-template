@@ -1,0 +1,8 @@
+{
+  "name": "use-cases",
+  "version": "0.1.0",
+  "description": "use-cases",
+  "main": "index.ts",
+  "license": "UNLICENSED",
+  "private": true
+}

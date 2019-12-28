@@ -1,0 +1,11 @@
+{
+  "name": "entities",
+  "version": "0.1.0",
+  "description": "entities",
+  "main": "index.ts",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "fluent-schema": "0.9.0"
+  }
+}

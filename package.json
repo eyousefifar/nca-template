@@ -1,0 +1,23 @@
+{
+  "name": "nca-template",
+  "version": "0.1.0",
+  "description": "node clean architecture template",
+  "main": "dist/index.js",
+  "repository": "https://github.com/eyousefifar/nca-template.git",
+  "author": "Erfan Yousefifar",
+  "license": "MIT",
+  "scripts": {
+    "clean": "rimraf dist",
+    "build": "npm run clean && tsc"
+  },
+  "devDependencies": {
+    "@types/node": "12.12.6",
+    "jest": "24.9.0",
+    "prettier": "1.19.1",
+    "rimraf": "^3.0.0",
+    "tslint": "5.20.1",
+    "tslint-config-prettier": "1.18.0",
+    "tslint-config-security": "1.16.0",
+    "typescript": "3.7.4"
+  }
+}

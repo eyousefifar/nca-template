@@ -1,0 +1,1 @@
+export {  httpVerbSample } from '../../controllers'

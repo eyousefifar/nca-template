@@ -1,0 +1,1 @@
+export { makeSample } from './src/sampleEntity'
