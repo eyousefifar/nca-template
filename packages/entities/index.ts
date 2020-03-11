@@ -1,1 +1,1 @@
-export { makeSample } from './src/sampleEntity'
+export { makeSample } from "./src/sample";
