@@ -1,1 +1,1 @@
-export { makeSample } from "./src/sample";
+export { makeSample } from "./sample";

@@ -3,4 +3,4 @@
 // export controllers
 
 
-export { httpVerbSample } from './src/httpVerbSample';
+export { httpVerbSample } from './httpVerbSample';

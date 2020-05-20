@@ -1,4 +1,4 @@
-import { addSample } from './src/sampleRoute'
+import { addSample } from './sampleRoute'
 
 
 

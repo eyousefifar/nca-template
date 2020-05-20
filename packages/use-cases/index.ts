@@ -3,4 +3,4 @@
 */
 
 
-export { addSample } from './src/add-sample'
+export { addSample } from './add-sample'
