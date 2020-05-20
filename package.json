@@ -1,23 +1,27 @@
 {
-  "name": "nca-template",
+  "name": "user",
   "version": "0.1.0",
-  "description": "node clean architecture template",
+  "description": "user service with clean architecture",
   "main": "dist/index.js",
-  "repository": "https://github.com/eyousefifar/nca-template.git",
-  "author": "Erfan Yousefifar",
-  "license": "MIT",
+  "repository": "https://gitlab.com/eyousefifar/user_service.git",
+  "author": {
+    "name": "Erfan Yousefifar",
+    "email": "eyousefifar@gmail.com",
+    "url": "https://gitlab.com/eyousefifar"
+  },
+  "license": "UNLICENCED",
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && tsc"
   },
   "devDependencies": {
     "@types/node": "12.12.6",
-    "jest": "25.1.0",
-    "prettier": "1.19.1",
+    "jest": "26.0.1",
+    "prettier": "2.0.5",
     "rimraf": "^3.0.2",
-    "tslint": "6.0.0",
+    "tslint": "6.1.2",
     "tslint-config-prettier": "1.18.0",
     "tslint-config-security": "1.16.0",
-    "typescript": "3.8.3"
+    "typescript": "3.9.2"
   }
 }
