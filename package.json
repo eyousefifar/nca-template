@@ -9,7 +9,7 @@
     "email": "eyousefifar@gmail.com",
     "url": "https://gitlab.com/eyousefifar"
   },
-  "license": "UNLICENCED",
+  "license": "UNLICENSED",
   "scripts": {
     "clean": "rimraf dist",
     "build": "npm run clean && tsc"
