@@ -1,13 +1,13 @@
 {
-  "name": "user",
+  "name": "sample",
   "version": "0.1.0",
-  "description": "user service with clean architecture",
+  "description": "sample service with clean architecture",
   "main": "dist/index.js",
-  "repository": "https://gitlab.com/eyousefifar/user_service.git",
+  "repository": "https://github.com/eyousefifar/nca-template.git",
   "author": {
     "name": "Erfan Yousefifar",
     "email": "eyousefifar@gmail.com",
-    "url": "https://gitlab.com/eyousefifar"
+    "url": "https://github.com/eyousefifar"
   },
   "license": "UNLICENSED",
   "scripts": {
