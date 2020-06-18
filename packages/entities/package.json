@@ -1,9 +1,0 @@
-{
-  "name": "entities",
-  "version": "0.1.0",
-  "description": "entities",
-  "main": "index.ts",
-  "license": "UNLICENSED",
-  "dependencies": {
-  }
-}
