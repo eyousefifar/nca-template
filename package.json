@@ -22,6 +22,6 @@
     "tslint": "6.1.2",
     "tslint-config-prettier": "1.18.0",
     "tslint-config-security": "1.16.0",
-    "typescript": "3.9.2"
+    "typescript": "3.9.5"
   }
 }
