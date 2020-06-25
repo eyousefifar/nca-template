@@ -1,6 +1,5 @@
 /* 
-    export use cases
+    export and inject use cases
 */
 
 
-export { addSample } from './add-sample'

@@ -1,6 +1,8 @@
 
 
-// export controllers
 
 
-export { httpVerbSample } from './httpVerbSample';
+export { buildHttpVerbSample } from './httpVerb';
+
+
+const httpVerb = buildHttpVerbSample(() => return);

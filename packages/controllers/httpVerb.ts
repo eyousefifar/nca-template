@@ -1,4 +1,8 @@
-export default function buildHttpVerbSample(exampleAddSample: () => void) {
+
+
+
+
+export function buildHttpVerbSample(exampleAddSample: () => void) {
   return function httpVerbSample() {
     // authenticate and authorize    
     

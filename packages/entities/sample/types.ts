@@ -1,1 +1,0 @@
-// typescript interfaces for sample entity
