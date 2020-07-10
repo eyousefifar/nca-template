@@ -8,6 +8,5 @@ module.exports = {
     "prettier/@typescript-eslint",
     "plugin:security/recommended",
     "plugin:jest/recommended",
-    "plugin:node/recommended",
   ],
 };
