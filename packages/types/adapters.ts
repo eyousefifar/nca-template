@@ -1,9 +1,9 @@
 import { FastifyRequest, FastifyReply } from "fastify";
 import {  types } from "cassandra-driver";
 
-export type IRow = types.Row;
-export type ILong = types.Long;
-export type IRequest = FastifyRequest;
+export type TRow = types.Row;
+export type TLong = types.Long;
+export type TRequest = FastifyRequest;
 // http interfaces start
-export type IReply = FastifyReply;
+export type TReply = FastifyReply;
 // http interfaces end
