@@ -1,1 +1,1 @@
-export { makeSample } from "./sample";
+// inject and export entities

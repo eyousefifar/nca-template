@@ -1,5 +1,5 @@
 /* 
-    export and inject use cases
+    inject and export use cases
 */
 
 

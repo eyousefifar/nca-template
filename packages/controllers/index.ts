@@ -1,8 +1,6 @@
 
+// inject controller dependancy and export injected object/ function
 
 
 
-export { buildHttpVerbSample } from './httpVerb';
 
-
-const httpVerb = buildHttpVerbSample(() => return);
